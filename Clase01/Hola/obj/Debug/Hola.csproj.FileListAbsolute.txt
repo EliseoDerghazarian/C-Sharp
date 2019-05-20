@@ -1,0 +1,6 @@
+C:\Users\educacionit\Desktop\Clase01\Hola\bin\Debug\Hola.exe.config
+C:\Users\educacionit\Desktop\Clase01\Hola\bin\Debug\Hola.exe
+C:\Users\educacionit\Desktop\Clase01\Hola\bin\Debug\Hola.pdb
+C:\Users\educacionit\Desktop\Clase01\Hola\obj\Debug\Hola.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase01\Hola\obj\Debug\Hola.exe
+C:\Users\educacionit\Desktop\Clase01\Hola\obj\Debug\Hola.pdb
